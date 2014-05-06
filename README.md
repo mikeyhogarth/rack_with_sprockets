@@ -1,2 +1,14 @@
-rack_with_sprockets
+Rack with Sprockets
 ===================
+
+Simple template set up to run sprockets within the context of a basic rack application. I use this for messing around with coffeescript / sass outside of the rails context. 
+
+To use: 
+
+* Clone the repo
+* cd into the directory
+* rackup
+
+Then just whack html files into /public and any sass/coffee files into /assets.
+
+
