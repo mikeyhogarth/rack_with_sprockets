@@ -1,7 +1,7 @@
 Rack with Sprockets
 ===================
 
-Simple template set up to run sprockets within the context of a basic rack application. I use this for messing around with coffeescript / sass outside of the rails context. 
+Simple template set up to run sprockets within a basic one page rack application. I use this for messing around with coffeescript / sass outside of the rails context. 
 
 To use: 
 
